@@ -1,0 +1,37 @@
+#conteiner{
+	border: 1px solid black;
+	width: 700px;
+	height: auto;
+	background-color: orange;
+	position: relative;
+	margin: 0px auto;
+
+}	
+
+
+
+#intro{
+	border: 1px solid black;
+	color: blue;
+	width: 100%;
+	height: auto;
+	background-color: orange;
+}	
+
+#overview{
+	border: 1px solid black;
+	color: blue;
+	width: 100%;
+	height: auto;
+	background-color: yellow;
+
+}	
+
+#mothivation{
+	border: 1px solid black;
+	color: blue;
+	width: 100%;
+	height: auto;
+	background-color: white;
+
+}	
