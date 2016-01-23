@@ -1,3 +1,9 @@
+body{
+	background-color: #FFFF66;
+}
+
+
+
 #conteiner{
 	border: 1px solid black;
 	width: 700px;
@@ -11,11 +17,12 @@
 
 
 #intro{
-	border: 1px solid black;
-	color: blue;
+	border: 5px solid #990066;
+	color: #336699;
 	width: 100%;
 	height: auto;
-	background-color: orange;
+	background-color: #33FF99;
+	padding: 30px 20px 20px 10px;
 }	
 
 #overview{
